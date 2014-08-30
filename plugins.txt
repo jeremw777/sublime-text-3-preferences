@@ -1,0 +1,6 @@
+Bracket?Highlighter
+Alignment
+DocBlockr
+Tomorrow ColorSchemes
+theme soda
+Symfony2 Snippets
